@@ -10,8 +10,8 @@
 | 2022-03-29 | secure channel establishment | Formal analysis of Enclave Key Exchange Protocol (EKEP) | Tom Roeder (@tmroeder) | <ul><li>[ProVerif model](https://github.com/google/ekep-analysis)</li><li>[protocol spec](https://asylo.dev/docs/concepts/ekep.html)</li></ul> |
 | 2022-03-15 | secure channel establishment | RA-TLS & Gramine | Dmitrii Kuvaiskii (@dimakuv) | <ul><li>MISSREF slides</li><li>[docs](https://graminereadthedocs.io/en/latest/attestation.html#mid-level-ra-tls-interface)</li></ul> |
 | 2022-03-15 | secure channel establishment | STET: Split-Trust Encryption Tool | Keith Moyer (@KeithMoyer) | <ul><li>[code](https://github.com/GoogleCloudPlatform/stet)</li></ul> |
-| 2021-10-26 | emerging standards | CoRIM update | [Thomas Fossati](@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_update.pdf)</li></ul> |
+| 2021-10-26 | emerging standards | CoRIM update | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_update.pdf)</li></ul> |
 | 2021-06-22 | emerging standards | Entity Attestation Token (EAT) | Laurence Lundblade (@laurencelundblade) | <ul><li>[slides](materials/LaurenceLundblade_EAT.pdf)</li></ul> |
-| 2021-06-08 | emerging standards | Concise Reference Integrity Manifests (CoRIM) | [Thomas Fossati](@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM.pdf)</li></ul> |
+| 2021-06-08 | emerging standards | Concise Reference Integrity Manifests (CoRIM) | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM.pdf)</li></ul> |
 | 2021-05-25 | open source components | Veraison intro | Simon Frost (@SimonFrost-Arm) | <ul><li>[slides](materials/SimonFrost_Veraison.pdf)</li></ul> |
 | 2021-04-27 | emerging standards | Attestation Results for Secure Interactions (AR4SI)| Eric Voit (@ericvoit) | <ul><li>[slides](materials/EricVoit_AttestationResults.pdf)</li></ul> |
