@@ -9,7 +9,7 @@
 | 2022-03-29 | secure channel establishment | OpenEnclave Attested TLS | Andy Chen | <ul><li>[slides](materials/AndyChen_AttestedTLS.pdf)</li><li>[sample code](https://github.com/openenclave/openenclave/tree/master/samples/attested_tls)</li></ul> |
 | 2022-03-29 | secure channel establishment | Formal analysis of Enclave Key Exchange Protocol (EKEP) | Tom Roeder (@tmroeder) | <ul><li>[ProVerif model](https://github.com/google/ekep-analysis)</li><li>[protocol spec](https://asylo.dev/docs/concepts/ekep.html)</li></ul> |
 | 2022-03-15 | secure channel establishment | RA-TLS & Gramine | Dmitrii Kuvaiskii (@dimakuv) | <ul><li>[slides](materials/DmitriiKuvaiskii_RA-TLS.pdf)</li><li>[docs](https://graminereadthedocs.io/en/latest/attestation.html#mid-level-ra-tls-interface)</li></ul> |
-| 2022-03-15 | secure channel establishment | STET: Split-Trust Encryption Tool | Keith Moyer (@KeithMoyer) | <ul><li>[code](https://github.com/GoogleCloudPlatform/stet)</li></ul> |
+| 2022-03-15 | secure channel establishment | STET: Split-Trust Encryption Tool | Keith Moyer (@KeithMoyer) | <ul><li>[slide](materials/KeithMoyer_STET.pdf)</li><li>[code](https://github.com/GoogleCloudPlatform/stet)</li></ul> |
 | 2021-10-26 | emerging standards | CoRIM update | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_update.pdf)</li></ul> |
 | 2021-06-22 | emerging standards | Entity Attestation Token (EAT) | Laurence Lundblade (@laurencelundblade) | <ul><li>[slides](materials/LaurenceLundblade_EAT.pdf)</li></ul> |
 | 2021-06-08 | emerging standards | Concise Reference Integrity Manifests (CoRIM) | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM.pdf)</li></ul> |
