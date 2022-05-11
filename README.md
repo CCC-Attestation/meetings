@@ -3,7 +3,7 @@
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
 | 2022-05-10 | secure channel establishment | Wrap up discussion | | <ul><li>[slides](materials/ThomasFossati_SCE+Attest.pdf)</li></ul> |
-| 2022-04-26 | secure channel establishment | HTTPA | Hans Wang | <ul><li>MISSREF slides</li><li>[APNIC blog](https://blog.apnic.net/2022/01/17/httpa-seeks-to-improve-https-trust-issues/)</li><li>[paper](https://arxiv.org/pdf/2110.07954.pdf)</li></ul> |
+| 2022-04-26 | secure channel establishment | HTTPA | Hans Wang | <ul><li>[slides](materials/HansWang_HTTPA1.pdf)</li><li>[APNIC blog](https://blog.apnic.net/2022/01/17/httpa-seeks-to-improve-https-trust-issues/)</li><li>[paper](https://arxiv.org/pdf/2110.07954.pdf)</li></ul> |
 | 2022-04-26 | secure channel establishment | TLS + CWT | Hannes Tschofenig (@hannestschofenig) | <ul><li>[slides](materials/HannesTschofenig_TLS-CWT.pdf)</li><li>[IETF draft](https://datatracker.ietf.org/doc/draft-tschofenig-tls-cwt/)</li></ul> |
 | 2022-04-12 | secure channel establishment | Veracruz Attestation | Derek Miller (@dreemkiller) | <ul><li>[slides](materials/DerekMiller_Veracruz.pdf)</li></ul> |
 | 2022-04-12 | secure channel establishment | CloudProxy | Tom Roeder (@tmroeder) | <ul><li>[original technical report for CloudProxy](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-135.html)</li><li>[datalog-based guard code](https://github.com/jlmucb/cloudproxy/blob/master/go/tao/datalog_guard.go#L40)</li><li>[listener code](https://github.com/jlmucb/cloudproxy/blob/master/go/tao/listener.go#L27)</li></ul> |
