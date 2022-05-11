@@ -2,6 +2,7 @@
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2022-05-10 | secure channel establishment | Wrap up discussion | | <ul><li>[slides](materials/ThomasFossati_SCE+Attest.pdf)</li></ul> |
 | 2022-04-26 | secure channel establishment | HTTPA | Hans Wang | <ul><li>MISSREF slides</li><li>[APNIC blog](https://blog.apnic.net/2022/01/17/httpa-seeks-to-improve-https-trust-issues/)</li><li>[paper](https://arxiv.org/pdf/2110.07954.pdf)</li></ul> |
 | 2022-04-26 | secure channel establishment | TLS + CWT | Hannes Tschofenig (@hannestschofenig) | <ul><li>[slides](materials/HannesTschofenig_TLS-CWT.pdf)</li><li>[IETF draft](https://datatracker.ietf.org/doc/draft-tschofenig-tls-cwt/)</li></ul> |
 | 2022-04-12 | secure channel establishment | Veracruz Attestation | Derek Miller (@dreemkiller) | <ul><li>[slides](materials/DerekMiller_Veracruz.pdf)</li></ul> |
