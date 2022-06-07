@@ -2,7 +2,7 @@
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
-| 2022-05-24 | Information & data models for attestation | Intel TDX | Muhammad Usama Sardar | <ul><li>[slides](https://www.researchgate.net/publication/360861674_Presentation_Formats_for_Attestation_in_Intel_TDX)</li><li>[paper](https://www.researchgate.net/publication/351699567_Demystifying_Attestation_in_Intel_Trust_Domain_Extensions_via_Formal_Verification)</li></ul> |
+| 2022-05-24 | Information & data models for attestation | Intel TDX | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](https://www.researchgate.net/publication/360861674_Presentation_Formats_for_Attestation_in_Intel_TDX)</li><li>[paper](https://www.researchgate.net/publication/351699567_Demystifying_Attestation_in_Intel_Trust_Domain_Extensions_via_Formal_Verification)</li></ul> |
 | 2022-05-10 | secure channel establishment | Wrap up discussion | | <ul><li>[slides](materials/ThomasFossati_SCE+Attest.pdf)</li></ul> |
 | 2022-04-26 | secure channel establishment | HTTPA | Hans Wang | <ul><li>[slides](materials/HansWang_HTTPA1.pdf)</li><li>[APNIC blog](https://blog.apnic.net/2022/01/17/httpa-seeks-to-improve-https-trust-issues/)</li><li>[paper](https://arxiv.org/pdf/2110.07954.pdf)</li></ul> |
 | 2022-04-26 | secure channel establishment | TLS + CWT | Hannes Tschofenig (@hannestschofenig) | <ul><li>[slides](materials/HannesTschofenig_TLS-CWT.pdf)</li><li>[IETF draft](https://datatracker.ietf.org/doc/draft-tschofenig-tls-cwt/)</li></ul> |
