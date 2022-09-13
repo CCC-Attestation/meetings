@@ -2,7 +2,7 @@
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
-| 2022-08-30 | secure channel establishment | Interoperable Attested TLS | Shanwei Cen (@shnwc) | <ul><li>[slides](materials/ShanweiCen_Interoperable_ATLS.pdf)</li></ul> |
+| 2022-08-30 and 2022-09-13 | secure channel establishment | Interoperable Attested TLS | Shanwei Cen (@shnwc) | <ul><li>[slides](materials/ShanweiCen_Interoperable_ATLS.pdf)</li></ul> |
 | 2022-08-02 | secure channel establishment | A TLS+CWT (v2) implementation in mbedTLS | Ionut Mihalcea (@ionut-arm) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/IonutMihalcea_TLS-CWT++.pdf)</li></ul> |
 | 2022-06-21 and 2022-07-05 | Information & data models for attestation | EAT in Microsoft Azure Attestation (MAA) | Greg Kostal (@GregKostal) | <ul><li>[slides](materials/GregKostal_EAT_in_MAA.pdf)</li></ul> |
 | 2022-06-07 | Information & data models for attestation | EAT overview | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_EAT_overview.pdf)</li></ul> |
