@@ -1,4 +1,15 @@
+# Meetings
+
+All Confidential Compute Consortium Attestation SIG meetings are held publicly.
+Everyone is welcome to attend, adhering to the [Community Code of Conduct](https://github.com/confidential-computing/governance/blob/master/code-of-conduct.md).
+Agendas and minutes are managed in this [document](https://docs.google.com/document/d/1NkiS78knPhDO0vA9ElS-bQOHNu783gGPdmTEbbOoOOU/).
+Additional information is available in the SIG's [governance repo](https://github.com/CCC-Attestation/governance#community-discussions-and-how-to-contribute).
+
+
 # Meeting Materials
+
+Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp).
+
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
