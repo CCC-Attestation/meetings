@@ -13,6 +13,8 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2022-10-25 | Information & data models for attestation | An EAT serialisation for AR4SI | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_AR4SI+EAT.pdf)</li></ul> |
+| 2022-10-25 | secure channel establishment | Attested TLS project proposal | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_TLS_attestation_project.pdf)</li></ul> |
 | 2022-09-27 | secure channel establishment | Attested TLS harmonisation | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_TLSAttest_harmonise.pdf)</li></ul> |
 | 2022-08-30 and 2022-09-13 | secure channel establishment | Interoperable Attested TLS | Shanwei Cen (@shnwc) | <ul><li>[slides](materials/ShanweiCen_Interoperable_ATLS.pdf)</li></ul> |
 | 2022-08-02 | secure channel establishment | A TLS+CWT (v2) implementation in mbedTLS | Ionut Mihalcea (@ionut-arm) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/IonutMihalcea_TLS-CWT++.pdf)</li></ul> |
