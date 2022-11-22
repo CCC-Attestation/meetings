@@ -13,6 +13,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2022-11-22 | Information & data models for attestation | Device Identity Composition Engine (DICE) | Ned Smith (@nedmsmith) | <ul><li>[slides](materials/NedSmith_DICE_2022-11-22.pdf)</li></ul> |
 | 2022-10-25 | Information & data models for attestation | An EAT serialisation for AR4SI | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_AR4SI+EAT.pdf)</li></ul> |
 | 2022-10-25 | secure channel establishment | Attested TLS project proposal | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_TLS_attestation_project.pdf)</li></ul> |
 | 2022-09-27 | secure channel establishment | Attested TLS harmonisation | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_TLSAttest_harmonise.pdf)</li></ul> |
