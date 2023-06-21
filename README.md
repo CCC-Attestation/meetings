@@ -13,6 +13,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2023-06-20 | Composite attesters | TDISP/SPDM | Samuel Ortiz (@sameo) | <ul><li>[slides](materials/SamuelOrtiz_TDISP-SPDM.pdf)</li></ul> |
 | 2023-05-09 | Information & data models for attestation | CoVE Attestation Framework | Ravi Sahita (@rsahita) | <ul><li>[slides](materials/RaviSahita_CoVE_2023-05-09.pdf)</li></ul> |
 | 2023-01-31 | CCC projects & attestation | Attestation Flow in Enarx | Dmitri Pal (@dpal) | <ul><li>[slides](materials/DmitriPal_Enarx_2023-01-31.pdf)</li></ul> |
 | 2022-11-22 | Information & data models for attestation | Device Identity Composition Engine (DICE) | Ned Smith (@nedmsmith) | <ul><li>[slides](materials/NedSmith_DICE_2022-11-22.pdf)</li></ul> |
