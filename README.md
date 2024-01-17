@@ -14,6 +14,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
 | 2024-01-16 | Open-source software | Linux `configfs-tsm` ABI | Samuel Ortiz (@sameo) | <ul><li>[slides](materials/SamuelOrtiz_LinuxKernelAttestationABI.pdf)</li></ul> |
+| 2023-11-21, 2023-12-05, 2024-01-16 | Information & data models for attestation | Concise Attestation Results using CoRIM Schema (CAR) | Ned Smith (@nedmsmith) | <ul><li>[slides](materials/NedSmith_CAR.pdf)</li></ul> |
 | 2023-08-29 | Governance | Attestation Governance Patterns | Mark Novak (@Mark Novak) | <ul><li>[slides](materials/MarkNovak_Attestation_Governance_Patterns.pdf)</li></ul> |
 | 2023-07-18 and 2023-08-01 | Information & data models for attestation | CORIM Based Attestation Framework | Shanwei Cen (@shnwc) | <ul><li>[slides](materials/ShanweiCen_CORIM_based_Attestation_Framework.pdf)</li></ul> |
 | 2023-06-20 | Composite attesters | TDISP/SPDM | Samuel Ortiz (@sameo) | <ul><li>[slides](materials/SamuelOrtiz_TDISP-SPDM.pdf)</li></ul> |
