@@ -13,6 +13,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2024-04-23 | Open-source software, Information & data models for attestation | Simplified & unified API's for attestation evidence access  | Ken Lu (@kenplusplus) | <ul><li>[slides](materials/KenLu_CC_API.pdf)</li></ul> |
 | 2024-04-09 | Information & data models for attestation | Enforcement policy in Azure confidential containers | Ken Gordon (@ken-gordon) | <ul><li>[slides](materials/KenGordon_Azure_Confidential_Containers.pdf)</li></ul> |
 | 2024-03-12 | Information & data models for attestation | RATS Conceptual Message Wrappers | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CMW.pdf)</li></ul> |
 | 2024-01-30 | secure channel establishment | A rollercoaster ride on the formal analysis of attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf)</li></ul> |
