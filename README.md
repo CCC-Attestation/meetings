@@ -13,6 +13,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2024-09-10 | emerging standards | Workload Identity in a Multi-Service Environment (WIMSE)  | Yaron Sheffer | <ul><li>[slides](materials/YaronSheffer_WIMSE.pdf)</li></ul> |
 | 2024-04-23, 2024-05-07 | Open-source software, Information & data models for attestation | Simplified & unified API's for attestation evidence access  | Ken Lu (@kenplusplus) | <ul><li>[slides](materials/KenLu_CC_API.pdf)</li></ul> |
 | 2024-04-09 | Information & data models for attestation | Enforcement policy in Azure confidential containers | Ken Gordon (@ken-gordon) | <ul><li>[slides](materials/KenGordon_Azure_Confidential_Containers.pdf)</li></ul> |
 | 2024-03-12 | Information & data models for attestation | RATS Conceptual Message Wrappers | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CMW.pdf)</li></ul> |
