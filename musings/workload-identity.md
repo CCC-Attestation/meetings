@@ -31,7 +31,13 @@ The workload identity problem space can be defined by the following set of key s
 8. Workloads might be short- or long-lived with different requirements applied to each kind:
    * For short-lived workloads, typified by container and serverless workloads, it may be important to issue credentials quickly and reliably so as not to introduce performance and reliability penalties related to multiple and/or expensive round-trips involved in credential issuance
    * For long-lived workloads, the lifetime of a workload is likely to exceed that of the credentials issued to it, requiring ability to renew and/or revoke credentials in response to governance requirements and/or emerging threats without compromising overall system reliability
-9. Governance of workload identities and credentials must include some of the following capabilities:
+9. The workloads may need to be migrated. Some of the use cases include:
+   * To maintain high availability of workload during maintenance of a physical machine running the workload
+   * From Cloud to Edge due to a policy change by a workload owner
+   * From Edge to Cloud due to scaling needs
+     
+   In case of migration it needs to be ensured that the Workload Identity is preserved so that it can be authenticated and attested correctly as per the policy.
+10. Governance of workload identities and credentials must include some of the following capabilities:
    * Maintaining control over and a history of all policies and decisions involved in issuing and evaluating identities and credentials
     Ability to identify, isolate and remedy vulnerable workloads in production quickly, such as when new threats are discovered or new attacks detected
 	
