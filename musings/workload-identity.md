@@ -34,7 +34,7 @@ The workload identity problem space can be defined by the following set of key s
 9. Governance of workload identities and credentials must include some of the following capabilities:
    * Maintaining control over and a history of all policies and decisions involved in issuing and evaluating identities and credentials
    * Ability to identify, isolate and remedy vulnerable workloads in production quickly, such as when new threats are discovered or new attacks detected
-10. A workload's identity should coexist in a predictable manner regular datacenter maintenance operations such as workload migration
+10. A workload's identity should coexist in a predictable manner with regular datacenter maintenance operations such as workload migration
    * Operations that would change the workload identity (e.g., by modifying one of its claims) should require redeployment where the old workload is torn down and the new one stood up in its place with a new workload identity
    * Operations that would preserve the workload identity, such as migration within the datacenter between equivalent hardware instances, should have no impact on the identity of the workload
 	
