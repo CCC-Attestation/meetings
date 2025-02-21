@@ -7,10 +7,10 @@ While it is quite clear that for the foreseeable future, this need is not going 
 The workload identity problem space can be defined by the following set of key scenarios and requirements:
 
 1. Any two workloads, WA and WB, should be able to obtain identities WIA and WIB, use these identities to obtain credentials WCA and WCB, and authenticate each other using these credentials. The identities, credentials and authentication/authorization mechanisms in question must all be portable, standards-based, and capable of supporting transport-level and application-level scenarios, as well as federation.
-2. There has to exist a strong binding between an identity of a workload to its lineage, such that one workload cannot impersonate another.
-   * In case of workloads developed in-house, integration of workload identity with CI/CD mechanisms is highly desirable
+2. There has to exist a strong binding between a workload's credentials and its lineage, such that the provenance of the workload can be established from its credentials.
+   * In case of workloads developed in-house, integration of workload credential issuance with CI/CD mechanisms is highly desirable
    * In case of managed workloads or workloads obtained from trusted sources, other forms of lineage establishment can be used, with automation and accountability remaining key feature
-   * Both code identity and the configuration/environment in which the code is deployed are important in workload identity establishment; the environment may include attributes such as whether the code is deployed in test or production, what physical location the computation takes place in, and others.
+   * Both code itself and the configuration/environment in which the code is deployed are important in workload credential issuance; the environment may include attributes such as whether the code is deployed in test or production, what physical location the computation takes place in, and others.
 3. The credentials, once issued to a workload, must be strongly bound to the workload’s instance in order to minimize the chances of a credential being leaked and repurposed.
    * For this to work, the use of bearer tokens must be strongly discouraged
    * Obtaining cryptographic keys for identity or credential establishment from secret stores comes with the need for workload key management, and is thus less desirable than having each workload generate and certify its own short-lived keys
@@ -33,7 +33,7 @@ The workload identity problem space can be defined by the following set of key s
    * For long-lived workloads, the lifetime of a workload is likely to exceed that of the credentials issued to it, requiring ability to renew and/or revoke credentials in response to governance requirements and/or emerging threats without compromising overall system reliability
 9. Governance of workload identities and credentials must include some of the following capabilities:
    * Maintaining control over and a history of all policies and decisions involved in issuing and evaluating identities and credentials
-    Ability to identify, isolate and remedy vulnerable workloads in production quickly, such as when new threats are discovered or new attacks detected
+   * Ability to identify, isolate and remedy vulnerable workloads in production quickly, such as when new threats are discovered or new attacks detected
 	
 So what does all that mean to Confidential Computing style Remote Attestation?
 
