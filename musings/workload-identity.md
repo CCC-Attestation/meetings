@@ -7,7 +7,7 @@ While it is quite clear that for the foreseeable future this need is not going t
 The workload identity problem space can be defined by the following set of key scenarios and requirements:
 
 1. Any two workloads, WA and WB, should be able to obtain identities WIA and WIB, use these identities to obtain credentials WCA and WCB, and authenticate each other using these credentials. The identities, credentials and authentication/authorization mechanisms in question must all be portable, standards-based, and capable of supporting transport-level and application-level scenarios, as well as federation.
-2. There has to exist a strong binding between a workload's credentials and its lineage, such that the provenance of the workload can be established from its credentials.
+2. There has to exist a strong binding between a workload's credentials and its lineage, such that the provenance of the workload can be established (directly or indirectly) from its credentials.
    * In case of workloads developed in-house, integration of workload credential issuance with CI/CD mechanisms is highly desirable
    * In case of managed workloads or workloads obtained from trusted sources, other forms of lineage establishment can be used, with automation and accountability remaining key feature
    * Both code itself and the configuration/environment in which the code is deployed are important in workload credential issuance; the environment may include attributes such as whether the code is deployed in test or production, what physical location the computation takes place in, and others.
