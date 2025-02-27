@@ -35,8 +35,10 @@ The workload identity problem space can be defined by the following set of key s
    * Maintaining control over and a history of all policies and decisions involved in issuing and evaluating identities and credentials
    * Ability to identify, isolate and remedy vulnerable workloads in production quickly, such as when new threats are discovered or new attacks detected
 10. A workload's identity should coexist in a predictable manner with regular datacenter maintenance operations such as workload migration
-    * Operations that would change the workload identity (e.g., by modifying one of its claims) should require redeployment where the old workload is torn down and the new one stood up in its place with a new workload identity
-    * Operations that would preserve the workload identity, such as migration within the datacenter between equivalent hardware instances, should have no impact on the identity of the workload
+   * Operations that would change the workload identity (e.g., by modifying one of its claims) should require redeployment where the old workload is torn down and the new one stood up in its place with a new workload identity
+   * Operations that would preserve the workload identity, such as migration within the datacenter between equivalent hardware instances, should have no impact on the identity of the workload
+11. Claims contained in workload credentials must be structured in such a way that the corresponding Relying party policies stay extra flexible over time
+   * In particular this means that frequently changing values such as workload binary measurements should not be present in the issued credentials.
 	
 So what does all that mean to Confidential Computing style Remote Attestation?
 
