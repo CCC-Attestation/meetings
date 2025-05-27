@@ -14,12 +14,12 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
 | 2025-05-20 | Open-source software, Unified remote attestation | ELASTIC Project | Anne-Marie Praden | <ul><li>[slides](materials/AnneMariePraden.ELASTIC_Remote-Attestation-CCCmeeting.pdf)</li><li>[aux slides](materials/AnneMariePraden.ELASTIC_overview_202411.pdf)</li></ul> |
+| 2025-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy | <ul><li>[slides](materials/ThomasFossati_CMW.pdf)</li></ul> |
 | 2024-09-24 | Open-source software, Information & data models for attestation | Endorsement/RV Distribution to Verifiers | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_EndorsementDistribution_Sept2024.pdf)</li></ul> |
 | 2024-09-10 | emerging standards | Workload Identity in a Multi-Service Environment (WIMSE)  | Yaron Sheffer (@yaronf) | <ul><li>[slides](materials/YaronSheffer_WIMSE.pdf)</li></ul> |
 | 2024-04-23, 2024-05-07 | Open-source software, Information & data models for attestation | Simplified & unified API's for attestation evidence access  | Ken Lu (@kenplusplus) | <ul><li>[slides](materials/KenLu_CC_API.pdf)</li></ul> |
 | 2024-04-09 | Information & data models for attestation | Enforcement policy in Azure confidential containers | Ken Gordon (@ken-gordon) | <ul><li>[slides](materials/KenGordon_Azure_Confidential_Containers.pdf)</li></ul> |
 | 2024-03-12 | Information & data models for attestation | RATS Conceptual Message Wrappers | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CMW.pdf)</li></ul> |
-| 2024-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy | <ul><li>[slides](materials/MarkusRudy.contrast-atls-ccc-attestation.pdf)</li></ul> |
 | 2024-01-30 | secure channel establishment | A rollercoaster ride on the formal analysis of attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf)</li></ul> |
 | 2024-01-16 | Open-source software | Linux `configfs-tsm` ABI | Samuel Ortiz (@sameo) | <ul><li>[slides](materials/SamuelOrtiz_LinuxKernelAttestationABI.pdf)</li></ul> |
 | 2023-11-21, 2023-12-05, 2024-01-16 | Information & data models for attestation | Concise Attestation Results using CoRIM Schema (CAR) | Ned Smith (@nedmsmith) | <ul><li>[slides](materials/NedSmith_CAR.pdf)</li></ul> |
