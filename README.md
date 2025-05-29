@@ -17,6 +17,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2025-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy (@burgerdev) | <ul><li>[slides](materials/MarkusRudy.contrast-atls-ccc-attestation.pdf)</li></ul> |
 | 2024-09-24 | Open-source software, Information & data models for attestation | Endorsement/RV Distribution to Verifiers | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_EndorsementDistribution_Sept2024.pdf)</li></ul> |
 | 2024-09-10 | emerging standards | Workload Identity in a Multi-Service Environment (WIMSE)  | Yaron Sheffer (@yaronf) | <ul><li>[slides](materials/YaronSheffer_WIMSE.pdf)</li></ul> |
+| 2024-06-18 | Open-source software | Attestable Containers with keybroker  | Tyler Fanelli (@tylerfanelli) | <ul><li>[slides](materials/TylerFanelli.CCC-attestation-jun1824.pdf)</li></ul> |
 | 2024-04-23, 2024-05-07 | Open-source software, Information & data models for attestation | Simplified & unified API's for attestation evidence access  | Ken Lu (@kenplusplus) | <ul><li>[slides](materials/KenLu_CC_API.pdf)</li></ul> |
 | 2024-04-09 | Information & data models for attestation | Enforcement policy in Azure confidential containers | Ken Gordon (@ken-gordon) | <ul><li>[slides](materials/KenGordon_Azure_Confidential_Containers.pdf)</li></ul> |
 | 2024-03-12 | Information & data models for attestation | RATS Conceptual Message Wrappers | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CMW.pdf)</li></ul> |
