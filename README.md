@@ -20,6 +20,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2024-06-18 | Open-source software | Attestable Containers with keybroker  | Tyler Fanelli (@tylerfanelli) | <ul><li>[slides](materials/TylerFanelli.CCC-attestation-jun1824.pdf)</li></ul> |
 | 2024-04-23, 2024-05-07 | Open-source software, Information & data models for attestation | Simplified & unified API's for attestation evidence access  | Ken Lu (@kenplusplus) | <ul><li>[slides](materials/KenLu_CC_API.pdf)</li></ul> |
 | 2024-04-09 | Information & data models for attestation | Enforcement policy in Azure confidential containers | Ken Gordon (@ken-gordon) | <ul><li>[slides](materials/KenGordon_Azure_Confidential_Containers.pdf)</li></ul> |
+| 2024-03-26 | Attestation architectures |Attestation flow on s390 |Steffen Eiden (@steffen-eiden) | <ul><li>[slides](materials/attestation_on_s390x.pdf)</li></ul> |
 | 2024-03-12 | Information & data models for attestation | RATS Conceptual Message Wrappers | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CMW.pdf)</li></ul> |
 | 2024-01-30 | secure channel establishment | A rollercoaster ride on the formal analysis of attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Formal_RA-TLS.pdf)</li></ul> |
 | 2024-01-16 | Open-source software | Linux `configfs-tsm` ABI | Samuel Ortiz (@sameo) | <ul><li>[slides](materials/SamuelOrtiz_LinuxKernelAttestationABI.pdf)</li></ul> |
