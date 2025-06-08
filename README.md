@@ -10,11 +10,13 @@ Additional information is available in the SIG's [governance repo](https://githu
 
 Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp).
 
-
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-06-03 | secure channel establishment | Open Questions for Discussion | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_vTPM_Azure.pdf)</li></ul> |
 | 2025-05-20 | Open-source software, Unified remote attestation | ELASTIC Project | Anne-Marie Praden | <ul><li>[slides](materials/AnneMariePraden.ELASTIC_Remote-Attestation-CCCmeeting.pdf)</li><li>[aux slides](materials/AnneMariePraden.ELASTIC_overview_202411.pdf)</li></ul> |
 | 2025-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy (@burgerdev) | <ul><li>[slides](materials/MarkusRudy.contrast-atls-ccc-attestation.pdf)</li></ul> |
+| 2025-03-11 | secure channel establishment | Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Identity_Crisis.pdf)</li></ul> |
+| 2024-10-22 | secure channel establishment | RA-TLS and its Variants | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_RA_TLS_Variants.pdf)</li></ul> |
 | 2024-09-24 | Open-source software, Information & data models for attestation | Endorsement/RV Distribution to Verifiers | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_EndorsementDistribution_Sept2024.pdf)</li></ul> |
 | 2024-09-10 | emerging standards | Workload Identity in a Multi-Service Environment (WIMSE)  | Yaron Sheffer (@yaronf) | <ul><li>[slides](materials/YaronSheffer_WIMSE.pdf)</li></ul> |
 | 2024-06-18 | Open-source software | Attestable Containers with keybroker  | Tyler Fanelli (@tylerfanelli) | <ul><li>[slides](materials/TylerFanelli.CCC-attestation-jun1824.pdf)</li></ul> |
