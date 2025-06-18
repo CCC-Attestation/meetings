@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-06-17 | Information & data models for attestation | CoSERV: Concise Selector for Endorsements and Reference Values | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_CoSERV.pdf)</li></ul> |
 | 2025-06-03 | secure channel establishment | Open Questions for Discussion | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_vTPM_Azure.pdf)</li></ul> |
 | 2025-05-20 | Open-source software, Unified remote attestation | ELASTIC Project | Anne-Marie Praden | <ul><li>[slides](materials/AnneMariePraden.ELASTIC_Remote-Attestation-CCCmeeting.pdf)</li><li>[aux slides](materials/AnneMariePraden.ELASTIC_overview_202411.pdf)</li></ul> |
 | 2025-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy (@burgerdev) | <ul><li>[slides](materials/MarkusRudy.contrast-atls-ccc-attestation.pdf)</li></ul> |
