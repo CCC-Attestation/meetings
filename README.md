@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-07-15 | Information & data models for attestation | CoSERV Revisted | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_CoSERV_Revisited.pdf)</li></ul> |
 | 2025-07-01 | Composite attesters | Binding TDISP & Platform Attestation Reports for Confidential VMs | Anna Trikalinou (@a-trikalinou) | <ul><li>[slides](materials/AnnaTrikalinou_Binding_TDISP_and_Platform_Attestation_Evidence.pdf)</li></ul> |
 | 2025-06-17 | Information & data models for attestation | CoSERV: Concise Selector for Endorsements and Reference Values | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_CoSERV.pdf)</li></ul> |
 | 2025-06-03 | secure channel establishment | Open Questions for Discussion | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_vTPM_Azure.pdf)</li></ul> |
