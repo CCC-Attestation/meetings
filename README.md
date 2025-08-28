@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-08-26 | secure channel establishment | Update on attested TLS | Ionut Mihalcea (@ionut-arm) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/IonutMihalcea_aTLS_subproject_2025_update.pdf)</li></ul> |
 | 2025-07-29 | Composite attesters | Azure vTPM Attestation and Binding | Mike Stunes (@stunes-ms) | <ul><li>[slides](materials/MikeStunes_vTPM_Attestation.pdf)</li></ul> |
 | 2025-07-15 | Information & data models for attestation | CoSERV Revisited | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_CoSERV_Revisited.pdf)</li></ul> |
 | 2025-07-01 | Composite attesters | Binding TDISP & Platform Attestation Reports for Confidential VMs | Anna Trikalinou (@a-trikalinou) | <ul><li>[slides](materials/AnnaTrikalinou_Binding_TDISP_and_Platform_Attestation_Evidence.pdf)</li></ul> |
