@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-09-23 | Information & data models for attestation | EAT Profile for Device Attestation | Mathieu Poirier (@mathieupoirier) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/MathieuPoirier_EAT_DA.pdf)</li></ul> |
 | 2025-09-09 | Open-source software, composite attesters, information and data-models for attestation | RATSD | Jag Raman (@jraman567) & Ian chin Wang (@cowbon) | <ul><li>[slides](materials/JagRaman_ratsd.pdf)</li></ul> |
 | 2025-08-26 | secure channel establishment | Update on attested TLS | Ionut Mihalcea (@ionut-arm) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/IonutMihalcea_aTLS_subproject_2025_update.pdf)</li></ul> |
 | 2025-07-29 | Composite attesters | Azure vTPM Attestation and Binding | Mike Stunes (@stunes-ms) | <ul><li>[slides](materials/MikeStunes_vTPM_Attestation.pdf)</li></ul> |
