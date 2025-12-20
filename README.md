@@ -23,6 +23,8 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2025-06-17 | Information & data models for attestation | CoSERV: Concise Selector for Endorsements and Reference Values | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_CoSERV.pdf)</li></ul> |
 | 2025-06-03 | secure channel establishment | Open Questions for Discussion | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_vTPM_Azure.pdf)</li></ul> |
 | 2025-05-20 | Open-source software, Unified remote attestation | ELASTIC Project | Anne-Marie Praden | <ul><li>[slides](materials/AnneMariePraden.ELASTIC_Remote-Attestation-CCCmeeting.pdf)</li><li>[aux slides](materials/AnneMariePraden.ELASTIC_overview_202411.pdf)</li></ul> |
+| 2025-04-22 | secure channel establishment | Architecturally-defined Attestation, Attested TLS and Open Challenges (continued) | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Overview_Open_Challenges_20250408_and_20250422.pdf)</li></ul> |
+| 2025-04-08 | secure channel establishment | Architecturally-defined Attestation, Attested TLS and Open Challenges | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Overview_Open_Challenges_20250408_and_20250422.pdf)</li></ul> |
 | 2025-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy (@burgerdev) | <ul><li>[slides](materials/MarkusRudy.contrast-atls-ccc-attestation.pdf)</li></ul> |
 | 2025-03-11 | secure channel establishment | Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Identity_Crisis.pdf)</li></ul> |
 | 2025-02-25 | secure channel establishment | Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Identity_Crisis_20250225.pdf)</li></ul> |
@@ -66,4 +68,3 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2021-06-08 | emerging standards | Concise Reference Integrity Manifests (CoRIM) | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM.pdf)</li></ul> |
 | 2021-05-25 | open source components | Veraison intro | Simon Frost (@SimonFrost-Arm) | <ul><li>[slides](materials/SimonFrost_Veraison.pdf)</li></ul> |
 | 2021-04-27 | emerging standards | Attestation Results for Secure Interactions (AR4SI)| Eric Voit (@ericvoit) | <ul><li>[slides](materials/EricVoit_AttestationResults.pdf)</li></ul> |
-
