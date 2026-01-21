@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-11-18 | emerging standards | Trustworthy Workload Identity with RATS | Mark Novak (@TheBankster) | <ul><li>[slides](materials/MarkNovak_TWI_and_RATS.pdf)</li></ul> |
 | 2025-10-21 | Information & data models for attestation | CoRIM Modeling, Evolution, and Revocation | Dhawal Kumar (@dkumar-nv) | <ul><li>[slides](materials/DhawalKumar_CORIM_Modeling_Revocation.pdf)</li></ul> |
 | 2025-09-23 | Information & data models for attestation | EAT Profile for Device Attestation | Mathieu Poirier (@mathieupoirier) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/MathieuPoirier_EAT_DA.pdf)</li></ul> |
 | 2025-09-09 | Open-source software, composite attesters, information and data-models for attestation | RATSD | Jag Raman (@jraman567) & Ian chin Wang (@cowbon) | <ul><li>[slides](materials/JagRaman_ratsd.pdf)</li></ul> |
