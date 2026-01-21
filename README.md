@@ -12,8 +12,10 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2025-12-16 | secure channel establishment | Binding Properties for Attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Binding_Properties_20251216.pdf)</li></ul> |
 | 2025-11-18 | emerging standards | Trustworthy Workload Identity with RATS | Mark Novak (@TheBankster) | <ul><li>[slides](materials/MarkNovak_TWI_and_RATS.pdf)</li></ul> |
 | 2025-10-21 | Information & data models for attestation | CoRIM Modeling, Evolution, and Revocation | Dhawal Kumar (@dkumar-nv) | <ul><li>[slides](materials/DhawalKumar_CORIM_Modeling_Revocation.pdf)</li></ul> |
+| 2025-10-07 | secure channel establishment | Comprehensive Formal Analysis of Attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Comprehensive_AttestedTLS_20251007.pdf)</li></ul> |
 | 2025-09-23 | Information & data models for attestation | EAT Profile for Device Attestation | Mathieu Poirier (@mathieupoirier) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/MathieuPoirier_EAT_DA.pdf)</li></ul> |
 | 2025-09-09 | Open-source software, composite attesters, information and data-models for attestation | RATSD | Jag Raman (@jraman567) & Ian chin Wang (@cowbon) | <ul><li>[slides](materials/JagRaman_ratsd.pdf)</li></ul> |
 | 2025-08-26 | secure channel establishment | Update on attested TLS | Ionut Mihalcea (@ionut-arm) & Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/IonutMihalcea_aTLS_subproject_2025_update.pdf)</li></ul> |
@@ -23,8 +25,12 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2025-06-17 | Information & data models for attestation | CoSERV: Concise Selector for Endorsements and Reference Values | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_CoSERV.pdf)</li></ul> |
 | 2025-06-03 | secure channel establishment | Open Questions for Discussion | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_vTPM_Azure.pdf)</li></ul> |
 | 2025-05-20 | Open-source software, Unified remote attestation | ELASTIC Project | Anne-Marie Praden | <ul><li>[slides](materials/AnneMariePraden.ELASTIC_Remote-Attestation-CCCmeeting.pdf)</li><li>[aux slides](materials/AnneMariePraden.ELASTIC_overview_202411.pdf)</li></ul> |
+| 2025-04-22 | secure channel establishment | Architecturally-defined Attestation, Attested TLS and Open Challenges (continued) | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Overview_Open_Challenges_20250408_and_20250422.pdf)</li></ul> |
+| 2025-04-08 | secure channel establishment | Architecturally-defined Attestation, Attested TLS and Open Challenges | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Overview_Open_Challenges_20250408_and_20250422.pdf)</li></ul> |
 | 2025-03-11 | secure channel establishment | Attested TLS in Contrast | Markus Rudy (@burgerdev) | <ul><li>[slides](materials/MarkusRudy.contrast-atls-ccc-attestation.pdf)</li></ul> |
 | 2025-03-11 | secure channel establishment | Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Identity_Crisis.pdf)</li></ul> |
+| 2025-02-25 | secure channel establishment | Identity Crisis in Attested TLS for Confidential Computing | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Identity_Crisis_20250225.pdf)</li></ul> |
+| 2025-01-28 | secure channel establishment | Open Questions for Discussion | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Open_Questions_20250128.pdf)</li></ul> |
 | 2024-10-22 | secure channel establishment | RA-TLS and its Variants | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_RA_TLS_Variants.pdf)</li></ul> |
 | 2024-09-24 | Open-source software, Information & data models for attestation | Endorsement/RV Distribution to Verifiers | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_EndorsementDistribution_Sept2024.pdf)</li></ul> |
 | 2024-09-10 | emerging standards | Workload Identity in a Multi-Service Environment (WIMSE)  | Yaron Sheffer (@yaronf) | <ul><li>[slides](materials/YaronSheffer_WIMSE.pdf)</li></ul> |
