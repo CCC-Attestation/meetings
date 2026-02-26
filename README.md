@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2026-02-24 | Information & data models for attestation | OCP Device Attestation | Giri Mandyam (@gmandyam), Fabrizio D'Amato (@fdamato), Parvathi Bhogaraju (@parvathib) | <ul><li>[slides](materials/GiriMandyam_OCP_Device_Attestation.pdf)</li></ul> |
 | 2025-12-16 | secure channel establishment | Binding Properties for Attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Binding_Properties_20251216.pdf)</li></ul> |
 | 2025-11-18 | emerging standards | Trustworthy Workload Identity with RATS | Mark Novak (@TheBankster) | <ul><li>[slides](materials/MarkNovak_TWI_and_RATS.pdf)</li></ul> |
 | 2025-10-21 | Information & data models for attestation | CoRIM Modeling, Evolution, and Revocation | Dhawal Kumar (@dkumar-nv) | <ul><li>[slides](materials/DhawalKumar_CORIM_Modeling_Revocation.pdf)</li></ul> |
