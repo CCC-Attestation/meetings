@@ -12,7 +12,9 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2026-05-05 | Information & data models for attestation | TrustMee Q&A | Lachlan Gunn (@LachlanGunn) | <ul><li>[slides](materials/LachlanGunn_TrustMee_Updated.pdf)</li></ul> |
 | 2026-04-07 | Information & data models for attestation | TrustMee | Lachlan Gunn (@LachlanGunn) | <ul><li>[slides](materials/LachlanGunn_TrustMee.pdf)</li></ul> |
+| 2026-03-24 | Information & data models for attestation | Disk Identity and Integrity | Pushkar Chitnis (@pushkarcms) | <ul><li>[slides](materials/PushkarChitnis_Disk_Identity_for_Confidential_Deployments.pdf)</li></ul> |
 | 2026-02-24 | Information & data models for attestation | OCP Device Attestation | Giri Mandyam (@gmandyam), Fabrizio D'Amato (@fdamato), Parvathi Bhogaraju (@parvathib) | <ul><li>[slides](materials/GiriMandyam_OCP_Device_Attestation.pdf)</li></ul> |
 | 2025-12-16 | secure channel establishment | Binding Properties for Attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Binding_Properties_20251216.pdf)</li></ul> |
 | 2025-11-18 | emerging standards | Trustworthy Workload Identity with RATS | Mark Novak (@TheBankster) | <ul><li>[slides](materials/MarkNovak_TWI_and_RATS.pdf)</li></ul> |
