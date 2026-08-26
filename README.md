@@ -12,7 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
-| 2026-07-28, 2026-08-11, 2026-08-25 | Information & data formats for attestation | CoRIM 101 | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_101.pdf)</li></ul> |
+| 2026-07-28, 2026-08-11, 2026-08-25 | Information & data models for attestation | CoRIM 101 | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_101.pdf)</li></ul> |
 | 2026-07-14 | secure channel establishment | Attested DNS | Amaury Chamayou (@achamayou) | <ul><li>[slides](materials/AmauryChamayou_Attested_DNS.pdf)</li></ul> |
 | 2026-06-30 | Information & data models for attestation | Disk Identity and Integrity | Pushkar Chitnis (@pushkarcms) | <ul><li>[slides](materials/PushkarChitnis_Disk_Identity_for_Confidential_Deployments.2.pdf)</li></ul> |
 | 2026-06-02 | Information & data models for attestation | Endorsement Distribution with Veraison and CoSERV | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_Veraison_CoSERV_June2026.pdf)</li></ul> |
