@@ -16,7 +16,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2026-07-28, 2026-08-11, 2026-08-25 | Information & data models for attestation | CoRIM 101 | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_101.pdf)</li></ul> |
 | 2026-07-14 | secure channel establishment | Attested DNS | Amaury Chamayou (@achamayou) | <ul><li>[slides](materials/AmauryChamayou_Attested_DNS.pdf)</li></ul> |
 | 2026-06-30 | Information & data models for attestation | Disk Identity and Integrity | Pushkar Chitnis (@pushkarcms) | <ul><li>[slides](materials/PushkarChitnis_Disk_Identity_for_Confidential_Deployments.2.pdf)</li></ul> |
-| 2026-06-16 | Information & data models for attestation | Toward ownership-aware attestation: Platform Ownership Endorsement | Benny Fuhry (@bfuhry) | <ul><li>[slides](materials/Platform Ownershicp Endorsements.pdf)</li></ul> |
+| 2026-06-16 | Information & data models for attestation | Toward ownership-aware attestation: Platform Ownership Endorsement | Benny Fuhry (@bfuhry) | <ul><li>[slides](materials/Platform_Ownership_Endorsements.pdf)</li></ul> |
 | 2026-06-02 | Information & data models for attestation | Endorsement Distribution with Veraison and CoSERV | Paul Howard (@paulhowardarm) | <ul><li>[slides](materials/PaulHoward_Veraison_CoSERV_June2026.pdf)</li></ul> |
 | 2026-05-05 | Information & data models for attestation | TrustMee Q&A | Lachlan Gunn (@LachlanGunn) | <ul><li>[slides](materials/LachlanGunn_TrustMee_Updated.pdf)</li></ul> |
 | 2026-04-07 | Information & data models for attestation | TrustMee | Lachlan Gunn (@LachlanGunn) | <ul><li>[slides](materials/LachlanGunn_TrustMee.pdf)</li></ul> |
