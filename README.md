@@ -12,6 +12,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 
 | Date | Track | Presentation | Presenter | Materials |
 | --- | --- | --- | --- | --- |
+| 2026-10-06 | Composite attesters | MetaPod | Lachlan Gunn (@LachlanGunn) | <ul><li>[slides](materials/LachlanGunn_MetaPod_20261006.pdf)</li></ul> |
 | 2026-09-22 | Information & data models for attestation | Arm CCA CoRIM Profile | Yogesh Deshpande (@yogeshbdeshpande) | <ul><li>[slides](materials/YogeshDeshpande_ArmCCA_CoRIM_Profile.pdf)</li></ul> |
 | 2026-07-28, 2026-08-11, 2026-08-25 | Information & data models for attestation | CoRIM 101 | Thomas Fossati (@thomas-fossati) | <ul><li>[slides](materials/ThomasFossati_CoRIM_101.pdf)</li></ul> |
 | 2026-07-14 | secure channel establishment | Attested DNS | Amaury Chamayou (@achamayou) | <ul><li>[slides](materials/AmauryChamayou_Attested_DNS.pdf)</li></ul> |
